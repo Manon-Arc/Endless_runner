@@ -5,8 +5,8 @@ using UnityEngine;
 public class SpawnerObstacle : MonoBehaviour
 {
     public GameObject[] obstacles;
-    public float obstacleSpawnTime = 4.0f;
-    public float obstacleSpeed = 5.0f;
+    private float obstacleSpawnTime = 3.0f;
+    private float obstacleSpeed = 6.5f;
 
     private float timeUntilNewObstacle;
     void Start()

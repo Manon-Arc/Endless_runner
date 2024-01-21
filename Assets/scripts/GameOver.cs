@@ -8,6 +8,7 @@ using UnityEngine.SceneManagement;
 public class GameOver : MonoBehaviour
 {
     public TMP_Text scoreText;
+
     void Start()
     {
         int score = PlayerPrefs.GetInt("Score", 0);

@@ -5,8 +5,8 @@ using UnityEngine;
 public class SpawnerCoin : MonoBehaviour
 {
     public GameObject coin;
-    public float obstacleSpawnTime = 2.0f;
-    public float obstacleSpeed = 5.0f;
+    private float obstacleSpawnTime = 2.0f;
+    private float obstacleSpeed = 8.0f;
 
     private float timeUntilNewObstacle;
 
