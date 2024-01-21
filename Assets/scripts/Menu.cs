@@ -7,7 +7,6 @@ using UnityEngine.SceneManagement;
 
 public class Menu : MonoBehaviour
 {
-
     public void Redirect_Start()
     {
         SceneManager.LoadScene("Game");

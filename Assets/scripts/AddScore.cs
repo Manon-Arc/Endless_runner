@@ -20,7 +20,6 @@ public class AddScore : MonoBehaviour
     {
         if (col.gameObject.CompareTag("obstacle"))
         {
-            Debug.Log("coucou");
             score_game.UpdateScore(1);
         }
     }

@@ -40,5 +40,4 @@ public class SpawnerCoin : MonoBehaviour
         rbObstacle.velocity = Vector3.left * obstacleSpeed;
         rbObstacle.gravityScale = 0;
     }
-
 }

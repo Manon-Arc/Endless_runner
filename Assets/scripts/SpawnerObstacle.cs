@@ -9,11 +9,6 @@ public class SpawnerObstacle : MonoBehaviour
     private float obstacleSpeed = 6.5f;
 
     private float timeUntilNewObstacle;
-    void Start()
-    {
-
-    }
-
     void Update()
     {
         SpawnLoop();
