@@ -6,7 +6,7 @@ public class SpawnerObstacle : MonoBehaviour
 {
     public GameObject[] obstacles;
     private float obstacleSpawnTime = 3.0f;
-    private float obstacleSpeed = 6.5f;
+    private float obstacleSpeed = 7.0f;
 
     private float timeUntilNewObstacle;
     void Update()
