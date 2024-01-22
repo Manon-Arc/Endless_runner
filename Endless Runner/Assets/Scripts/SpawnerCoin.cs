@@ -23,13 +23,13 @@ public class SpawnerCoin : MonoBehaviour
         {
             if (Random.Range(0, 5) == 0)
                 Spawn();
-                timeUntilNewObstacle = 0f;
+            timeUntilNewObstacle = 0f;
         }
     }
 
     private void Spawn()
     {
-        
+
         float randomY = Random.Range(-4.0f, 4.0f);
         Debug.Log(randomY);
 
