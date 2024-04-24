@@ -2,7 +2,7 @@
 
 by **ARCAS** Manon
 
-**Shadow Run** is a 2D endless runner game!
+**Shadow Run** is a 2D endless runner game !
 The goal is simple: You control a character whose goal is to avoid obstacles to survive as long as possible !
 
 ## 📌 Table of Contents :
