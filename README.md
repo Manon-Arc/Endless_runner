@@ -1,57 +1,54 @@
-# Projet Unity : ENDLESS RUNNER
+# Unity Project: ENDLESS RUNNER
 
-par **ARCAS** Manon *B2 informatique*
+by **ARCAS** Manon *B2 Computer Science*
 
-I. [Présentation du projet](#i-présentation-du-projet)
+**Shadow Run** is a 2D endless runner game!
+The goal is simple: You control a character whose goal is to avoid obstacles to survive as long as possible !
 
-II. [Fonctionnalités](#ii-fonctionnalités-disponibles)
+## 📌 Table of Contents :
+   
+I. [Prerequisites](#🔧-i-prerequisites)  
+II. [Availables Features](#🌟-ii-available-features)  
+III. [How to Install the Project](#💻-iii-how-to-install-the-project)  
 
-III. [Comment installer le projet](#iii-comment-installer-le-projet)
-1. [Installation](#1-installation)
-2. [Lancement](#2-lancement)
+## 🎯 Badges :
 
-___
+[![Csharp logo](https://img.shields.io/badge/Language-CSharp-green
+)](https://www.java.com/fr/)
+[![Unity logo](https://img.shields.io/badge/Software-Unity-black
+)](https://www.java.com/fr/)
 
-## I. Présentation du projet :
+## 🔧 I. Prerequisites :
 
-**Shadow Run** est un jeu dit "endless runner" en 2D !<br>
+- [Unity](https://unity.com/fr/download) installed on your system.
 
-Le but est simple : <br>
-Vous contrôlez un personnage dont le but est d'éviter des obstacles pour survivre le plus longtemps possible !<br>
+## 🌟 II. Availables Features :
 
-## II. Fonctionnalités disponibles :
+- 3 scenes: menu, game, and game over,
+- Character jump using the space bar,
+- Random generation of obstacles from a predefined list,
+- Ability to collect coins to increase score *(randomly generated)*,
+- Real-time score displayed during the game,
+- Background music during the game,
+- Score displayed on the "game over" scene,
+- Ability to restart a game immediately after a game over.
 
-- 3 scènes : menu, game et game over,
-
-- Saut du personnage à l'aide de la barre espace,
-
-- Génération aléatoire des obstacles parmis une liste prédéfinie,
-
-- Possibilité de récupérer des pièces pour augmenter son score *(générées de façons aléatoire)*
-
-- Score affiché en temps réel durant la partie,
-
-- Musique de fond durant la partie,
-
-- Score affiché sur la scène "game over",
-
-- Possibilité de relancer directement une partie à la suite d'un game over.
-
-## III. Comment installer le projet :
+## 💻 III. How to Install the Project :
 
 ### 1. Installation :
 
-- Cloner le repo avec la commande suivante :
-```bash
-git clone https://github.com/Manon-Arc/Endless_runner
-```
-- Ouvrir le projet depuis [Unity](https://unity.com/fr/download)
+- Clone the repo with the following command :
+  ```bash
+  git clone https://github.com/Manon-Arc/Endless_runner.git
+  ```
 
-- Cliquer sur Asset -> Scenes -> Menu
+- Open the projet from [Unity](https://unity.com/fr/download)
 
-### 2. Lancement :
+- Click on Asset -> Scenes -> Menu
 
-- Presser le bouton suivant :
+### 2. Lauch :
+
+- Press the following button :
 
 ![button](./img/button.png)
 
