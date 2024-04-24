@@ -1,6 +1,6 @@
 # Unity Project: ENDLESS RUNNER
 
-by **ARCAS** Manon *B2 Computer Science*
+by **ARCAS** Manon
 
 **Shadow Run** is a 2D endless runner game!
 The goal is simple: You control a character whose goal is to avoid obstacles to survive as long as possible !
